@@ -4,6 +4,22 @@
 
 # ₿ CryptoKu
 
+<details>
+<summary>🇬🇧 English summary</summary>
+
+**CryptoKu** — track cryptocurrency prices in real time, in Indonesian Rupiah (or USD).
+
+- Market overview: top coins by market cap, 24h/7d change, sparklines
+- Coin detail: price, ATH/ATL, supply, links, 7-day chart
+- Watchlist, currency switcher, and a coin ⇄ currency converter
+- Data from the free CoinGecko API — no API key required, cached for 45 s with offline fallback
+
+Live demo: https://superrrkyy.github.io/cryptoku/ · Built with React 18, TypeScript, Vite, Tailwind CSS.
+*Not investment advice — prices only.*
+
+</details>
+
+
 **Pantau harga kripto secara real-time dalam Rupiah** — 100 koin teratas, grafik interaktif,
 watchlist pribadi, dan kalkulator konversi. Semua dalam satu halaman ringan yang enak dipakai di HP.
 
